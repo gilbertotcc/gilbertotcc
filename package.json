@@ -1,0 +1,9 @@
+{
+  "name": "gilbertotcc",
+  "devDependencies": {
+    "markdownlint-cli2": "^0.23.3"
+  },
+  "scripts": {
+    "lint:markdown": "markdownlint-cli2"
+  }
+}
