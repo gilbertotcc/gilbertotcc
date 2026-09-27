@@ -1,0 +1,20 @@
+config:
+  default: true
+  first-line-heading: false
+  heading-style:
+    style: atx
+  no-duplicate-heading:
+    siblings_only: true
+  line-length:
+    line_length: 80
+    tables: false
+    code_blocks: false
+    headings: false
+  no-emphasis-as-heading: false
+  commands-show-output: false
+  fenced-code-language: false
+  table-column-style:
+    style: aligned
+gitignore: true
+globs:
+  - "**/*.md"
